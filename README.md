@@ -1,11 +1,9 @@
 # TOC Project Telegram Bot 
 
 ##Description
-
 This is a bot who can search all professors in NCKU CSIE for you
 
 ##Structure
-
 1.Four states,including "start","state1","state2","state3"
 
 2.When you type 'a',you'll enter in state1,it will reply the professors in inst.CSIE,then go back to start and wait for another type.

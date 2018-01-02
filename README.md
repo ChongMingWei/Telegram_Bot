@@ -15,7 +15,7 @@ This is a bot who can search all professors in NCKU CSIE for you
 ## Run
 
 1.Open the cmd and get into the folder includeing ngrok.exe.
-![fsm](./Desktop/1.png)
+![picture1](https://imgur.com/Txk2R6H)
 2.Type 'ngrok http 5000' on the cmd.
 
 ```sh

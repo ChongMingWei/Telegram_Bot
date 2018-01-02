@@ -15,13 +15,13 @@ This is a bot who can search all professors in NCKU CSIE for you
 ## Run
 
 1.Open the cmd and get into the folder includeing ngrok.exe.
-![Imgur](https://i.imgur.com/Txk2R6H.png)
+[Imgur](https://i.imgur.com/Txk2R6H.png)
 2.Type 'ngrok http 5000' on the cmd.
 
 ```sh
 ngrok http 5000
 ```
 
-3.Change the URL in app.py and then excecute it on python IDLE.
-
+3.Get the URL and change it in app.py and then excecute it on python IDLE.
+[Imgur](https://i.imgur.com/hsukOHY.png)
 4.Interacting with the bot.
